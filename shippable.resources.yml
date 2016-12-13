@@ -100,7 +100,7 @@ resources:
       params:
         ENVIRONMENT: "production"
         NODE_ENV: "production"
-        PORT: 50000
+        PORT: 40832
 
 # PROD replica controller
   - name: replicas-front-end-prod
