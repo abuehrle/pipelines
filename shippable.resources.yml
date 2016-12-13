@@ -91,7 +91,7 @@ resources:
     type: dockerOptions
     version:
       portMappings:
-        - 50000:50000
+        - 40832:40832
 
 # Environment variables for PROD environment
   - name: params-front-end-prod
